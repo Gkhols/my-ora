@@ -4,7 +4,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ghiant/my-ora/sqlrewrite/mysql/raw"
+	"github.com/Gkhols/my-ora/sqlrewrite/mysql/raw"
 	"gorm.io/gorm"
 )
 

@@ -1,6 +1,6 @@
 module github.com/Gkhols/my-ora
 
-go 1.25.4
+go 1.18
 
 require (
 	github.com/godror/godror v0.49.4

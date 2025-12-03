@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ghiant/my-ora/sqlrewrite/mysql/orm"
+	"github.com/Gkhols/my-ora/sqlrewrite/mysql/orm"
 )
 
 func main() {

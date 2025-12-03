@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ghiant/my-ora/sqlrewrite/mysql/raw"
+	"github.com/Gkhols/my-ora/sqlrewrite/mysql/raw"
 )
 
 func main() {
