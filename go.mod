@@ -1,4 +1,4 @@
-module github.com/ghiant/my-ora
+module github.com/Gkhols/my-ora
 
 go 1.25.4
 
