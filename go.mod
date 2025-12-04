@@ -3,7 +3,7 @@ module github.com/Gkhols/my-ora
 go 1.18
 
 require (
-	github.com/godror/godror v0.49.4
+	github.com/godror/godror v0.49.5
 	github.com/oracle-samples/gorm-oracle v1.1.0
 	gorm.io/gorm v1.31.1
 )
